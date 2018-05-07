@@ -1,0 +1,100 @@
+
+
+nav {
+    background-color: #24292e;
+    color: white;
+   
+    
+}
+li {
+    display: inline-block;
+    padding: 15px 5px;
+    margin: 10px 5px;
+   
+}
+ul {
+    padding: 0px 360px 0; 
+
+}
+body {
+    margin: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #2b3137;
+    color: white;
+
+}
+.search {
+    float: right;
+    position: absolute;
+    top: 13px;
+    right: 400px;
+    border-radius: 5px;
+    background-color: #404448;
+}
+#container {
+    display: flex;
+   margin: 200px 230px;
+}
+article {
+    width: 40%;
+    padding: 40px;
+}
+form {
+    padding: 20px;
+   
+}
+.form-group {
+    padding: 10px;
+   
+} 
+input[type=text], select {
+    width: 100%;
+    padding: 12px 10px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+p.last {
+    margin: 5px;
+    position: relative;
+    top: -15px; 
+    left: 5px;
+    color: #a5a495;
+    font-size: 11px;
+    
+    
+}
+button {
+    width: 100%;
+    border-radius: 4px;
+    height: 10%;
+    background-color: #2db94d;
+    color: white;
+    border: none;
+   
+
+}
+p.intro {
+    color: #8ea5ab;
+    font-size: 25px;
+}
+form {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    width: 30%;
+  
+ 
+}
+h1 {
+    font-size: 50px;
+}
+span {
+    font-size: 30px;
+   
+}
+ul li:nth-child(7) {
+    float: right;
+}
